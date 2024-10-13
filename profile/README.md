@@ -26,7 +26,7 @@ To maintain quality and consistency across all projects, we've established some 
   - Installation instructions
   - Usage examples
   - License information
-- **CONTRIBUTING.md**: Guidelines on how to contribute, including at least one issue labeled `good first issue` to help newcomers.
+- **CONTRIBUTING.md**: Guidelines on how to contribute, including at least one issue labeled `good first issue` to help newcomers in Github Issues page.
 - **License**: Choose either the **MIT License** or **GNU GPL v2** for your project.
 
 ### 2️⃣ Code Style
@@ -52,6 +52,9 @@ Optional detailed explanation
 - `refactor`: Code changes without fixing bugs or adding features
 - `test`: Adding or updating tests
 - `chore`: Maintenance tasks
+
+Refer to https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53
+For more information on commit msg details
 
 ### 4️⃣ Collaboration Norms
 
