@@ -14,6 +14,7 @@ Whether you're a seasoned developer or just starting out, we welcome you to join
 1. **Explore Our Projects**: Browse our repositories to find projects that interest you.
 2. **Join the Discussion**: Participate in discussions, report issues, or suggest new features.
 3. **Contribute Code**: Follow our contribution guidelines to submit pull requests.
+4. Visit our website at [https://open-cmuq.github.io/](https://open-cmuq.github.io/)!
 
 ## 🛠 Organization Guidelines
 
@@ -69,7 +70,7 @@ Carnegie Mellon University in Qatar is committed to innovation and excellence. T
 Special Thanks to the founding team:
 - Talhah Peerbhai
 - Adib Pahlowan
-- Matthew Correa
+- Mateo Correa
 - Tra Bui
 - Mohamed Elzeni
 - Mohamed Shikfa
